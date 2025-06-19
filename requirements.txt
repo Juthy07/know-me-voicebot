@@ -1,0 +1,5 @@
+
+gradio
+gTTS
+openai
+python-dotenv
